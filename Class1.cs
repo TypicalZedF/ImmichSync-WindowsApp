@@ -283,6 +283,3 @@ namespace ImmichSyncApp
         }
     }
 }
-
-
-// Testing the code
