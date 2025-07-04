@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImmichSyncApp", "ImmichSyncApp.csproj", "{6442FDAF-3E26-4810-B215-43588885E3C5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ImmichSyncApp_Setup", "..\ImmichSyncApp_Setup\ImmichSyncApp_Setup.vdproj", "{CF314C8A-0180-C58F-F38C-00A7DB349831}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6442FDAF-3E26-4810-B215-43588885E3C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6442FDAF-3E26-4810-B215-43588885E3C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6442FDAF-3E26-4810-B215-43588885E3C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6442FDAF-3E26-4810-B215-43588885E3C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF314C8A-0180-C58F-F38C-00A7DB349831}.Debug|Any CPU.ActiveCfg = Debug
+		{CF314C8A-0180-C58F-F38C-00A7DB349831}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD9562B5-6CD7-4827-8C7E-9B55AA33EECD}
+	EndGlobalSection
+EndGlobal

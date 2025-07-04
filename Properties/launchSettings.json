@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ImmichSyncApp": {
+      "commandName": "Project",
+      "commandLineArgs": "-minimized"
+    }
+  }
+}
