@@ -2,6 +2,10 @@
 
 Immich Sync is a Windows application designed to synchronize folders between your local machine and a remote Immich server. It provides flexible sync options, queue management, and user-configurable settings for seamless file transfers.
 
+### Disclaimer:
+This code is held together with hope, duct tape, and maybe a few sticks. I'm not a pro developer—just someone who needed a solution and decided to build something and share it.
+If you're more experienced with coding, have suggestions, or want to help improve the project, please feel free to jump in! Just keep in mind, I don’t have a lot of free time, so I might not be able to fix or implement everything myself.
+
 ## Features
 
 - **Sync Folders:** Specify multiple folders to sync with your Immich server.
