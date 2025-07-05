@@ -1,6 +1,6 @@
-# ImmichSyncApp
+# Immich Sync
 
-ImmichSyncApp is a Windows application designed to synchronize folders between your local machine and a remote Immich server. It provides flexible sync options, queue management, and user-configurable settings for seamless file transfers.
+Immich Sync is a Windows application designed to synchronize folders between your local machine and a remote Immich server. It provides flexible sync options, queue management, and user-configurable settings for seamless file transfers.
 
 ## Features
 
