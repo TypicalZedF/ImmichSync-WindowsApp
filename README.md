@@ -16,8 +16,6 @@ ImmichSyncApp is a Windows application designed to synchronize folders between y
 Settings are stored in a user-specific `settings.json` file under your AppData directory. You can configure:
 - Local and remote server URLs
 - Network ID
-- Username and password
-- JWT token (encrypted)
 - Folders to sync
 - Sync behavior options
 
